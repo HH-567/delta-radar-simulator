@@ -1,0 +1,14 @@
+# 旧版备份与中间产物
+*.bak
+*.tmp
+*.log
+
+# 工作区缓存/生成脚本
+.workbuddy/tmp/
+.workbuddy/memory/
+.workbuddy/projects/
+
+# 系统杂项
+.DS_Store
+Thumbs.db
+desktop.ini
